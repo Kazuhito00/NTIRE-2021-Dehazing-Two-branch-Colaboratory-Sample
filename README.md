@@ -7,7 +7,7 @@
 上から順に実行していってください。
 
 # Reference
-* [[liuh127/NTIRE-2021-Dehazing-Two-branch](https://github.com/liuh127/NTIRE-2021-Dehazing-Two-branch)
+* [liuh127/NTIRE-2021-Dehazing-Two-branch](https://github.com/liuh127/NTIRE-2021-Dehazing-Two-branch)
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
